@@ -1,0 +1,5 @@
+# You got to rename our .env_sample filre to .env
+## add the respective info from firebase web api.
+
+
+### Reference: https://firebase.google.com/docs/firestore/quickstart

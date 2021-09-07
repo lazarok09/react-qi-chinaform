@@ -1,0 +1,26 @@
+.actionDelete button {
+    font-family: 'Barlow', sans-serif;
+    font-size: 2rem;
+    padding: 1.6rem 5rem;
+    background: rgb(255, 17, 0);
+    font-weight: 600;
+    color: #FFFFFF;
+    border-radius: 4px;
+    transition: all 300ms ease-in-out;
+}
+.actionDelete button:hover {
+    margin-left: 0.5rem;
+    transform: scale(1.02);
+    background: #000000;
+    border-radius: 6px;
+    cursor: pointer;
+    text-shadow: 1px 1px 1px rgb(0, 217, 255);
+}
+@media(max-width: 768px) {
+
+    .actionDelete button {
+        font-size: 1.6rem;
+        padding: 1.4rem;
+    }
+  
+}

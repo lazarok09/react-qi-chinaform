@@ -1,0 +1,21 @@
+.userBox {
+    border: 1px dotted rgb(226, 222, 222);
+    box-shadow: 2px 2px 2px #ff0583;
+    transition: all 400ms ease-in-out;
+    border-radius: 4px;
+    padding: 4px;
+    word-break: break-all;
+    font-family: 'Roboto', sans-serif;
+}
+.userBox:hover {
+    transform: scale(1.1);
+    box-shadow: 1px 1px 10px #fa1414;
+    margin: 0 1rem;
+}
+.spanPink {
+    color: #ff0583;
+}
+.spanBlue {
+    color: #24cfe6;
+    font-weight: bold;
+}

@@ -1,0 +1,28 @@
+.container {
+    width: 100%;
+    position: fixed;
+    height: 5rem;
+    color: black;
+    display: flex;
+    background-color: #ffffff;
+    box-shadow: rgb(170 170 170) 2px 0px 8px 0px;
+    padding: 0;
+    margin: 0;
+    justify-content: space-between;
+    align-items: center;
+}
+.container a {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+    transition: all 500ms ease-in-out;
+    font-size: 2rem;
+    padding: 2rem;
+    color: var(--pink-color);
+  
+}
+.container a:hover {
+    color: red;
+    text-decoration: overline;
+    transform: scale(1.01);
+}

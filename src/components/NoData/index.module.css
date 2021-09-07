@@ -1,0 +1,13 @@
+.description {
+    font-size: 2rem;
+    font-family: 'Roboto', sans-serif;
+    margin-bottom: 15rem;
+}
+.description:hover {
+    text-shadow: 1px 1px 1px rgb(170, 170, 170);
+}
+.description img {
+    margin-top: 1rem;
+    display: block;
+    height: 2rem;
+}

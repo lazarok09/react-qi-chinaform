@@ -1,0 +1,60 @@
+.flexColumn {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
+.formTitle {
+    color: rgb(125, 0, 136);
+    text-align: center;
+    font-family: 'Barlow', sans-serif;
+    font-weight: bold;
+    font-size: 40px;
+    margin-bottom: 1rem;
+}
+.inputGroup {
+    display: flex;
+    flex-direction: column;
+    color: #ff0485;
+    margin: 1rem 0;
+}
+.inputGroup label {
+    font-size: 2rem;
+    margin: 0.5rem 0;
+    font-family: 'Roboto', sans-serif;
+}
+.inputGroup label:hover {
+    cursor: pointer;
+}
+.inputGroup input {
+    border: 1px solid rgb(80, 80, 80);
+    border-radius: 3px;
+    font-size: 1.6rem;
+    padding: 1rem;
+    
+}
+.inputGroup input::placeholder {
+    font-size:  1.6rem;
+}
+.newUserButton {
+    font-family: 'Barlow', sans-serif;
+    font-size: 2rem;
+    padding: 2rem;
+    background:#ff0485;
+    font-weight: 600;
+    color: #FFFFFF;
+    transition: all 300ms ease-in-out;
+}
+.newUserButton:hover {
+    margin-left: 0.5rem;
+    transform: scale(1.02);
+    font-size: 2rem;
+    padding: 2rem;
+    background:#ff0084;
+    border-radius: 4px;
+    cursor: pointer;
+}
+@media(max-width: 768px) {
+    .flexColumn {
+        margin: 0 auto;
+    }
+}

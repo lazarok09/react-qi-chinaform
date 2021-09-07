@@ -1,0 +1,29 @@
+.twoGrids {
+    display: grid;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 2rem;
+    gap: 1rem;
+    grid-template-columns: 1fr 1fr;
+}
+.marginTop {
+    margin-top: 12rem;
+}
+img {
+    max-width: 100%;
+    height: 100%;
+}
+@media(max-width: 768px) {
+    .twoGrids {
+        padding: 0 1rem;
+        gap: 0.5rem;
+        grid-template-columns: 1fr;
+    }
+    .marginTop {
+        margin-top: 1rem;
+    }
+    .imgContainer{
+        margin: 0 auto;
+
+    }
+}
