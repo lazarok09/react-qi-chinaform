@@ -16,7 +16,7 @@
 </h1>
 
 <p align="center">
-  <img alt="" src=".github/telaprincipalpng.png" width="80%">
+  <img alt="" src=".github/telaprincipal.png" width="80%">
 </p>
 
 <h2 align=center>Responsividade no Smartphone :iphone: </h2>
