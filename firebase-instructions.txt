@@ -1,4 +1,4 @@
-# You got to rename our .env_sample filre to .env
+# You got to rename our .env_sample file to .env
 ## add the respective info from firebase web api.
 
 
