@@ -28,7 +28,7 @@
 💻 Projeto
 </h2>
 
-O desafio proposto é um formulário com os campos de nome e idade. Ao cadastrar esses dados, a aplicação salva as informações em um banco de dados provido pelo FireBase, da Google. Em seguida temos outra tela que apresenta esses dados sendo capiturados diretamente do banco de dados. Podemos deletar, visualizar ou usuários.
+O desafio proposto é um formulário com os campos de nome e idade. Ao cadastrar esses dados, a aplicação salva as informações em um banco de dados provido pelo FireBase, da Google. Em seguida temos outra tela que apresenta esses dados sendo capiturados diretamente do banco de dados. Podemos deletar, criar ou visualizar os usuários.
 
 
 <br>
