@@ -60,6 +60,8 @@ Linguagens de marcação, estilo e programação:
 🔴 Execução
 </h2>
 
+## Clique aqui [desafio Instituto Qi China](https://react-qi-chinaform.vercel.app/)
+
 ### Scripts para clone, instalação e execução da aplicação
 
 ##### Você precisará de um terminal git, se estiver no Windows instale o [bash](https://git-scm.com/downloads)
