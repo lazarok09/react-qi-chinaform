@@ -24,6 +24,18 @@
   <img alt="c" height="500px" title="imagem de como a aplicação é no telefone" src=".github/responsivo.png">
 </p>
 
+<h2 align=center>Vídeo de demonstração ⏯️
+  
+</br>
+</br>
+  
+[<img src="https://i.imgur.com/f6XOWUE.png" width="50%">](https://youtu.be/DQMuWXL0IdI)
+
+</h2>
+
+
+
+<br>
 <h2 id="projeto">
 💻 Projeto
 </h2>
