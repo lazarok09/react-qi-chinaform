@@ -71,7 +71,7 @@ Linguagens de marcação, estilo e programação:
 🔴 Execução
 </h2>
 
-## Clique aqui [desafio Instituto Qi China](https://react-qi-chinaform.vercel.app/)
+## Clique aqui [desafio Instituto Qi China](https://www.youtube.com/watch?v=DQMuWXL0IdI&t=6s)
 
 ### Scripts para clone, instalação e execução da aplicação
 
